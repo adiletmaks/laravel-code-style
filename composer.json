@@ -1,13 +1,13 @@
 {
-    "name": "matt-allan/laravel-code-style",
+    "name": "adiletmaks/laravel-code-style",
     "description": "Code formatting for Laravel projects",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/matt-allan/laravel-code-style",
+    "homepage": "https://github.com/adiletmaks/laravel-code-style",
     "authors": [
         {
-            "name": "Matt Allan",
-            "email": "matt@mattallan.me"
+            "name": "Adilet Maks",
+            "email": "adilet970113@gmail.com"
         }
     ],
     "keywords": [
@@ -22,12 +22,12 @@
         }
     },
     "require": {
-        "php": ">=7.2",
-        "illuminate/support": "5.7.x|5.8.x|^6.0",
+        "php": ">=7.1",
+        "illuminate/support": "5.6.x|5.7.x|5.8.x|^6.0",
         "friendsofphp/php-cs-fixer": "^2.14"
     },
     "require-dev": {
-        "laravel/framework": "^6.0.3",
+        "laravel/framework": "5.6.*",
         "phpunit/phpunit": "^7.0"
     },
     "extra": {
